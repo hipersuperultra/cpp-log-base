@@ -1,8 +1,8 @@
-baseurl = "https://hipersuperultra.github.com/cpp"
+baseurl = "https://hipersuperultra.github.io/cpp"
 languageCode = "en"
 title = "hipersuperultra's cpp log"
 theme = "kiss"
-copyright = "&copy; <a href=\"https://hipersuperultra.github.com\">hipersuperultra</a> 2019"
+copyright = "&copy; <a href=\"https://hipersuperultra.github.io\">hipersuperultra</a> 2019"
 Paginate = 5 # Number of posts per page
 enableRobotsTXT = true
 
